@@ -1,0 +1,31 @@
+ 15 KPI clés :
+
+ f Total accidents
+
+f Taux accidents graves
+
+f Accidents par heure
+
+f Accidents par mois
+
+Accidents par État
+
+Gravité moyenne
+
+Gravité jour vs nuit
+
+ f Accidents sous pluie
+
+f Visibilité moyenne accidents graves
+
+Accidents aux carrefours
+
+Accidents aux feux
+
+f Corrélation gravité–visibilité
+
+États à haut risque
+
+Heures à haut risque
+
+Conditions cumulées à risque
